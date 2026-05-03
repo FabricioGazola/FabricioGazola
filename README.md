@@ -2,15 +2,19 @@
 
 💻 Estudante de Engenharia de Software  
 🚀 Focado em desenvolvimento Backend com Java  
+📈 Em busca da primeira oportunidade como desenvolvedor  
+
 
 ## 🎯 Sobre mim
 
 Sou estudante de Engenharia de Software em início de jornada, construindo uma base sólida em programação e desenvolvimento backend.  
 Tenho foco em Java e estou constantemente evoluindo com projetos, cursos e prática.
 
+
 ## 🎓 Formação
 
 - 🎓 Engenharia de Software (1/8) - Unifio
+
 
 ## 📚 Cursos e Aprendizados
 
@@ -18,6 +22,7 @@ Tenho foco em Java e estou constantemente evoluindo com projetos, cursos e prát
 - Java COMPLETO Programação Orientada a Objetos + Projetos (Udemy - Nelio Alves) — *Cursando*
 - Java primeiros passos: Lógica de Programação e Algoritmos (Udemy - Nelio Alves)
 - JavaScript (Curso em Vídeo)
+- Git e GitHub (Curso em Vídeo) — *Cursando*
 
 🔹 Dados e Tecnologia
 - Imersão Dados com Python (Alura)
@@ -27,41 +32,54 @@ Tenho foco em Java e estou constantemente evoluindo com projetos, cursos e prát
 - Competência Transversal - Lógica de Programação (SENAI)
 - Implantação de Serviços de Inteligência Artificial em Nuvem - Microsoft AI-900 (SENAI)
 
+
 ## 🛠️ Tecnologias
 
-- ☕ Java
-- 🟨 JavaScript
-- 🐍 Python (básico)
-- 🔧 Git & GitHub
+- ☕ Java  
+- 🟨 JavaScript  
+- 🐍 Python (básico)  
+- 🔧 Git & GitHub  
+
 
 ## 🧠 Conhecimentos
 
-- Lógica de programação
-- Algoritmos
-- Matrizes
-- Programação Orientada a Objetos (POO)
-- Versionamento de código
+- Lógica de programação  
+- Algoritmos  
+- Matrizes  
+- Programação Orientada a Objetos (POO)  
+- Estruturas de dados (em aprendizado)  
+
+
+## 💻 Projetos
+
+🔹 Em desenvolvimento...  
+- Em breve projetos práticos utilizando Java e POO  
+
 
 ## 🚀 Atualmente focado em
 
-- Java (POO e projetos)
-- Estruturas de dados
-- Boas práticas de programação
+- Java (POO e projetos)  
+- Estruturas de dados  
+- Boas práticas de programação  
+
 
 ## 🔥 Próximos passos
 
-- Desenvolvimento de APIs REST
-- Spring Boot
-- Banco de dados (SQL)
-- Projetos completos para portfólio
+- Desenvolvimento de APIs REST  
+- Spring Boot  
+- Banco de dados (SQL)  
+- Projetos completos para portfólio  
+
 
 ## 📈 Objetivo
 
 Me tornar um desenvolvedor Backend profissional, capaz de construir aplicações reais e escaláveis.
 
+
 ## 🌐 Contato
 
 💼 LinkedIn:  
-https://www.linkedin.com/in/fabricio-gazola-05a1633b2
-✉️ E-mail:
-fabricio.rgazola@icloud.com
+🔗 https://www.linkedin.com/in/fabricio-gazola-05a1633b2  
+
+✉️ E-mail:  
+📧 fabricio.rgazola@icloud.com
