@@ -55,13 +55,6 @@ Busco constantemente evoluir minhas habilidades através de estudos, projetos pe
 
 ---
 
-## 📊 GitHub Stats
-
-![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioGazola&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioGazola&layout=compact&theme=tokyonight)
----
-
 ## 🎯 Atualmente estudando
 
 - ☕ Java
