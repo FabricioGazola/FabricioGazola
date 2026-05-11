@@ -67,15 +67,8 @@ Busco constantemente evoluir minhas habilidades através de estudos, projetos pe
 
 ## 📫 Contato
 
-<p align="center">
-  <a href="mailto:fabricio.rgazola@icloud.com">
-    <img src="https://img.shields.io/badge/Email-0A84FF?style=for-the-badge&logo=icloud&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/fabricio-gazola-05a1633b2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+- ✉️ Email: fabricio.rgazola@icloud.com
+- 💼 LinkedIn: https://www.linkedin.com/in/fabricio-gazola-05a1633b2
 
 ---
 
