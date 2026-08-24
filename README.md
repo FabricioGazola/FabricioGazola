@@ -29,14 +29,14 @@ Busco constantemente evoluir minhas habilidades através de estudos, projetos pe
 ## 🎓 Formação
 
 🎓 **Engenharia de Software — UNIFIO**  
-📚 1º semestre *(Cursando)*
+📚 2º semestre *(Cursando)*
 
 ---
 
 ## 📚 Cursos & Certificações
 
 - 📘 Java Completo: Programação Orientada a Objetos + Projetos — Udemy *(Cursando)*
-- 📘 Git e GitHub — Curso em Vídeo *(Cursando)*
+- 📘 Git e GitHub — Curso em Vídeo 
 - 📘 Programador + Java, Python, PHP, HTML5, CSS e Lógica de Programação — CENAIC
 - 📘 Java primeiros passos: Lógica de Programação e Algoritmos — Udemy
 - 📘 JavaScript — Curso em Vídeo
