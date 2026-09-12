@@ -50,7 +50,7 @@ Busco constantemente evoluir minhas habilidades através de estudos, projetos pe
 ## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,git,github,python,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,git,github,vscode,idea" />
 </p>
 
 ---
